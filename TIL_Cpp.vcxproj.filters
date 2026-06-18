@@ -21,5 +21,11 @@
     <ClCompile Include="Day 2(조건문, 반복문).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Day 00(empty form).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Day 3(동적 배열 Vector).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
