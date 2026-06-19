@@ -27,5 +27,8 @@
     <ClCompile Include="Day 3(동적 배열 Vector).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Day 4(문자열과 범위 기반 for문).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
