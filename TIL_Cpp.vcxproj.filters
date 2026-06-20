@@ -30,5 +30,8 @@
     <ClCompile Include="Day 4(문자열과 범위 기반 for문).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Day 5(참조자(Reference)).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
