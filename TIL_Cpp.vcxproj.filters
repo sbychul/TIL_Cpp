@@ -39,5 +39,8 @@
     <ClCompile Include="Day 7(상속).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Day 8(algorithm 라이브러리).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
