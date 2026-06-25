@@ -45,5 +45,8 @@
     <ClCompile Include="Day 9(동적 할당과 소멸자).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Day 10(map과 Key-Value 관리).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

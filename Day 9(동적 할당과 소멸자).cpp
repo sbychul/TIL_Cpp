@@ -17,7 +17,7 @@ public:
 	CustomArray(int size_input) : size{ size_input } {
 		if (size <= 0) { std::cout << "배열 크기 입력이 잘못되었습니다."; return; }
 		arr = new int[size];
-		std::cout << size_input << "크기의 배열이 힙에 할당되었습니다."; }
+		std::cout << size_input << "크기의 배열이 힙에 할당되었습니다.\n"; }
 
 	// 해당 인덱스에 값을 저장하는 함수
 	void set(int index, int value) { arr[index] = value; }
