@@ -48,5 +48,8 @@
     <ClCompile Include="Day 10(map과 Key-Value 관리).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Day 11(실습 - 데이터 구조와 알고리즘 융합).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

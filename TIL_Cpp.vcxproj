@@ -25,7 +25,10 @@
     <ClCompile Include="Day 1(기본 입출력, 사칙연산).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="Day 10(map과 Key-Value 관리).cpp" />
+    <ClCompile Include="Day 10(map과 Key-Value 관리).cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="Day 11(실습 - 데이터 구조와 알고리즘 융합).cpp" />
     <ClCompile Include="Day 2(조건문, 반복문).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
