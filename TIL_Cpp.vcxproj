@@ -34,7 +34,10 @@
     <ClCompile Include="Day 12(복사 생성자와 Deep Copy).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="Day 13(우측값 참조와 이동 생성자).cpp" />
+    <ClCompile Include="Day 13(우측값 참조와 이동 생성자).cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="Day 14(순수 가상 함수와 추상 클래스).cpp" />
     <ClCompile Include="Day 2(조건문, 반복문).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
