@@ -63,5 +63,8 @@
     <ClCompile Include="Day 15(대입 연산자 오버로딩).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Day 16(템플릿(Template)).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
