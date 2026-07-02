@@ -66,5 +66,8 @@
     <ClCompile Include="Day 16(템플릿(Template)).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Day 17(클래스 템플릿과 범용 컨테이너).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
