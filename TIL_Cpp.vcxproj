@@ -46,7 +46,10 @@
     <ClCompile Include="Day 16(템플릿(Template)).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="Day 17(클래스 템플릿과 범용 컨테이너).cpp" />
+    <ClCompile Include="Day 17(클래스 템플릿과 범용 컨테이너).cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="Day 18%28예외 처리와 Stack Unwinding%29.cpp" />
     <ClCompile Include="Day 2(조건문, 반복문).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
