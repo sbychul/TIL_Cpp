@@ -52,10 +52,13 @@
     <ClCompile Include="Day 18%28예외 처리와 Stack Unwinding%29.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="Day 19(이동 대입 연산자).cpp" />
+    <ClCompile Include="Day 19(이동 대입 연산자).cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="Day 2(조건문, 반복문).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="Day 20(스마트 포인터).cpp" />
     <ClCompile Include="Day 3(동적 배열 Vector).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
