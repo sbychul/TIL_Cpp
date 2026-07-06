@@ -75,7 +75,10 @@
     <ClCompile Include="Day 19(이동 대입 연산자).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Day 20(스마트 포인터).cpp">
+    <ClCompile Include="Day 20%28스마트 포인터 unique_ptr%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Day 21(공유형 스마트 포인터 shared_ptr).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
