@@ -81,5 +81,8 @@
     <ClCompile Include="Day 21(공유형 스마트 포인터 shared_ptr).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Day 22(순환 참조의 해결책 weak_ptr).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

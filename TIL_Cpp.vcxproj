@@ -61,7 +61,10 @@
     <ClCompile Include="Day 20%28스마트 포인터 unique_ptr%29.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="Day 21(공유형 스마트 포인터 shared_ptr).cpp" />
+    <ClCompile Include="Day 21(공유형 스마트 포인터 shared_ptr).cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="Day 22(순환 참조의 해결책 weak_ptr).cpp" />
     <ClCompile Include="Day 3(동적 배열 Vector).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
