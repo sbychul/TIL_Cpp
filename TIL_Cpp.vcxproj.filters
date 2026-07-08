@@ -84,5 +84,8 @@
     <ClCompile Include="Day 22(순환 참조의 해결책 weak_ptr).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Day 23%28이중 연결 리스트 list + Iterator%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
