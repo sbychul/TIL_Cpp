@@ -67,7 +67,10 @@
     <ClCompile Include="Day 22(순환 참조의 해결책 weak_ptr).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="Day 23%28이중 연결 리스트 list + Iterator%29.cpp" />
+    <ClCompile Include="Day 23%28이중 연결 리스트 list + Iterator%29.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="Day 24%28map에서의 Iterator%29.cpp" />
     <ClCompile Include="Day 3(동적 배열 Vector).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
