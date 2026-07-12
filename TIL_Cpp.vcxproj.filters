@@ -96,5 +96,8 @@
     <ClCompile Include="Day 26(static과 friend 키워드).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Day 27(사용자 정의 삽입 연산자 오버로딩).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

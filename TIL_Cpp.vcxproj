@@ -76,7 +76,10 @@
     <ClCompile Include="Day 25(unordered_map).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="Day 26(static과 friend 키워드).cpp" />
+    <ClCompile Include="Day 26(static과 friend 키워드).cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="Day 27(사용자 정의 삽입 연산자 오버로딩).cpp" />
     <ClCompile Include="Day 3(동적 배열 Vector).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
