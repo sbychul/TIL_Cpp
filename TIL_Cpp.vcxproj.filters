@@ -99,5 +99,8 @@
     <ClCompile Include="Day 27(사용자 정의 삽입 연산자 오버로딩).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Day 28(파일 입출력 스트림).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
