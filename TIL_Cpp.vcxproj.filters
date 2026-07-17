@@ -105,5 +105,8 @@
     <ClCompile Include="Day 29(extern C와 크로스 링킹).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Day 30(실습 - unordered_map을 통한 탐색).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
