@@ -23,7 +23,7 @@ std::string findMissingDriver(const std::vector<std::string>& participant, const
 		driver_counts[name]--;
 	}
 
-	// iterator를 활용하여 pair.second가 0이 아닌 드라이버를 찾아낸다.
+	// pair.second가 0이 아닌 드라이버를 찾아낸다.
 	for (const auto& pair : driver_counts) {
 		if (pair.second != 0) { return pair.first; }
 		// 단 한 명이라고 문제에서 주어졌으니 그냥 드라이버명만 반환하고 종료.

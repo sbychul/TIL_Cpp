@@ -91,7 +91,10 @@
     <ClCompile Include="Day 3(동적 배열 Vector).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="Day 30(실습 - unordered_map을 통한 탐색).cpp" />
+    <ClCompile Include="Day 30(실습 - unordered_map을 통한 탐색).cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="Day 31(스택(stack)).cpp" />
     <ClCompile Include="Day 4(문자열과 범위 기반 for문).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
