@@ -111,5 +111,8 @@
     <ClCompile Include="Day 31(스택(stack)).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Day 32(큐(Queue)).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
