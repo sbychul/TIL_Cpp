@@ -100,7 +100,10 @@
     <ClCompile Include="Day 32(큐(Queue)).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="Day 33(우선순위 큐).cpp" />
+    <ClCompile Include="Day 33(우선순위 큐).cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="Day 34(복습 - 동적 메모리와 얕은, 깊은 복사).cpp" />
     <ClCompile Include="Day 4(문자열과 범위 기반 for문).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
