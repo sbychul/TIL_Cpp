@@ -117,7 +117,10 @@
     <ClCompile Include="Day 33(우선순위 큐).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Day 34(복습 - 동적 메모리와 얕은, 깊은 복사).cpp">
+    <ClCompile Include="Day 34%28복습 - 동적 할당, 깊은 복사%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Day 35%28인덱스 접근, 출력, 결합 연산자 오버로딩%29.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
