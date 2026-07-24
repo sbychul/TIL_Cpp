@@ -106,7 +106,12 @@
     <ClCompile Include="Day 34%28복습 - 동적 할당, 깊은 복사%29.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="Day 35%28인덱스 접근, 출력, 결합 연산자 오버로딩%29.cpp" />
+    <ClCompile Include="Day 35%28인덱스 접근, 출력, 결합 연산자 오버로딩%29.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="Day 36(복습 - 상속 및 하위 클래스 동적 관리).cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="Day 4(문자열과 범위 기반 for문).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
