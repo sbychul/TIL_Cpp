@@ -126,5 +126,8 @@
     <ClCompile Include="Day 36(복습 - 상속 및 하위 클래스 동적 관리).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Day 37(실습 - 스마트 미디어 라이브러리 관리 시스템).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
