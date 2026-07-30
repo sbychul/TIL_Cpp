@@ -124,7 +124,10 @@
     <ClCompile Include="Day 4(문자열과 범위 기반 for문).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="Day 40(실습 - 스마트 포인터 기반 인벤토리).cpp" />
+    <ClCompile Include="Day 40(실습 - 스마트 포인터 기반 인벤토리).cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="Day 41(스레드(thread)).cpp" />
     <ClCompile Include="Day 5(참조자(Reference)).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
