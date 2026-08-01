@@ -141,5 +141,8 @@
     <ClCompile Include="Day 41(스레드(thread)).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Day 42(실습 - 41일차 개선, 조건 변수 기반 스레드 안전 작업 큐).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

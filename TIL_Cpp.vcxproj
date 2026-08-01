@@ -127,7 +127,10 @@
     <ClCompile Include="Day 40(실습 - 스마트 포인터 기반 인벤토리).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="Day 41(스레드(thread)).cpp" />
+    <ClCompile Include="Day 41(스레드(thread)).cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="Day 42(실습 - 41일차 개선, 조건 변수 기반 스레드 안전 작업 큐).cpp" />
     <ClCompile Include="Day 5(참조자(Reference)).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
