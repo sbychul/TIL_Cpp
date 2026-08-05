@@ -147,5 +147,8 @@
     <ClCompile Include="Day 43(실습 - 41-42일차 최종, 스레드 총괄 관리 클래스 구현).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Day 44(비동기 작업의 결과 받아오기).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
