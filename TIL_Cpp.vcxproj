@@ -136,7 +136,10 @@
     <ClCompile Include="Day 43(실습 - 41-42일차 최종, 스레드 총괄 관리 클래스 구현).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="Day 44(비동기 작업의 결과 받아오기).cpp" />
+    <ClCompile Include="Day 44(비동기 작업의 결과 받아오기).cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="Day 45(람다 표현식 집중 공략).cpp" />
     <ClCompile Include="Day 5(참조자(Reference)).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
