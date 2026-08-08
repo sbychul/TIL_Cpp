@@ -139,7 +139,10 @@
     <ClCompile Include="Day 44(비동기 작업의 결과 받아오기).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="Day 45(람다 표현식 집중 공략).cpp" />
+    <ClCompile Include="Day 45(람다 표현식 집중 공략).cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="Day 46(가변 인자 비동기 실행 함수 구현해보기).cpp" />
     <ClCompile Include="Day 5(참조자(Reference)).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
