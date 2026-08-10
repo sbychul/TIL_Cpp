@@ -156,5 +156,8 @@
     <ClCompile Include="Day 46(가변 인자 비동기 실행 함수 구현해보기).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Day 47(진짜 범용 ThreadPool).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
