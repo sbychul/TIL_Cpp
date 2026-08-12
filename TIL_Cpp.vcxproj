@@ -148,7 +148,10 @@
     <ClCompile Include="Day 47%28스레드 최종장 - 진짜 범용 ThreadPool%29.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="Day 48(실습 - 동적 정수 배열 만들기).cpp" />
+    <ClCompile Include="Day 48(실습 - 동적 정수 배열 만들기).cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="Day 49(실습 - 동적 문자열 래퍼 클래스 구현).cpp" />
     <ClCompile Include="Day 5(참조자(Reference)).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
