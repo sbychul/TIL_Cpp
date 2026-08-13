@@ -165,5 +165,8 @@
     <ClCompile Include="Day 49(실습 - 동적 문자열 래퍼 클래스 구현).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Day 50(실습 - Counter 객체와 SmartPointer 래퍼 연산자 중복 구현).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
