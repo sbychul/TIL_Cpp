@@ -168,5 +168,8 @@
     <ClCompile Include="Day 50(실습 - Counter 객체와 SmartPointer 래퍼 연산자 중복 구현).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Day 51(실습 - 다중 상속과 가상 상속, 스마트 복합기 시스템).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
