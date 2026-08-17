@@ -174,5 +174,8 @@
     <ClCompile Include="Day 51(실습 - 다중 상속과 가상 상속, 스마트 복합기 시스템) - 복사본.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Day 53(실습 - 바이너리 레코드 관리자).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

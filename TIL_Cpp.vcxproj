@@ -163,7 +163,10 @@
     <ClCompile Include="Day 51(실습 - 다중 상속과 가상 상속, 스마트 복합기 시스템) - 복사본.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="Day 52(실습 - 템플릿 기반 안전 원형 버퍼).cpp" />
+    <ClCompile Include="Day 52(실습 - 템플릿 기반 안전 원형 버퍼).cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="Day 53(실습 - 바이너리 레코드 관리자).cpp" />
     <ClCompile Include="Day 6(구조체와 클래스 기초).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
