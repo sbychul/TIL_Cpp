@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Day 54(실습 - STL 기반 데이터 파이프라인).obj",
+            "outputs": [
+                "x64\\Debug\\Day 54(실습 - STL 기반 데이터 파이프라인).cpp.obj.dt.module.json",
+                "x64\\Debug\\Day 54(실습 - STL 기반 데이터 파이프라인).cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

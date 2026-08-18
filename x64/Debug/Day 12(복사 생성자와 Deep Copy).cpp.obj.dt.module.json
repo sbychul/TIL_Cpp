@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Day 12(복사 생성자와 Deep Copy).obj",
+            "outputs": [
+                "x64\\Debug\\Day 12(복사 생성자와 Deep Copy).cpp.obj.dt.module.json",
+                "x64\\Debug\\Day 12(복사 생성자와 Deep Copy).cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

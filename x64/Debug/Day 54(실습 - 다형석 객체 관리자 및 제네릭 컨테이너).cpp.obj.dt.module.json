@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Day 54(실습 - 다형석 객체 관리자 및 제네릭 컨테이너).obj",
+            "outputs": [
+                "x64\\Debug\\Day 54(실습 - 다형석 객체 관리자 및 제네릭 컨테이너).cpp.obj.dt.module.json",
+                "x64\\Debug\\Day 54(실습 - 다형석 객체 관리자 및 제네릭 컨테이너).cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

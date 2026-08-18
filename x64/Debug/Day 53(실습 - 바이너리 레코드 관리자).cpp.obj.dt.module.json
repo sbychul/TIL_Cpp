@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Day 53(실습 - 바이너리 레코드 관리자).obj",
+            "outputs": [
+                "x64\\Debug\\Day 53(실습 - 바이너리 레코드 관리자).cpp.obj.dt.module.json",
+                "x64\\Debug\\Day 53(실습 - 바이너리 레코드 관리자).cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
