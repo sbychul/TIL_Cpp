@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Day 55(실습 - 스마트 미디어 보관함).obj",
+            "outputs": [
+                "x64\\Debug\\Day 55(실습 - 스마트 미디어 보관함).cpp.obj.dt.module.json",
+                "x64\\Debug\\Day 55(실습 - 스마트 미디어 보관함).cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
