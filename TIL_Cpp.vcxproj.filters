@@ -183,5 +183,8 @@
     <ClCompile Include="Day 55(실습 - 스마트 미디어 보관함).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Day 56(실습 - 동적 할당 2차원 행렬).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
