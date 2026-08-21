@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Day 3(동적 배열 Vector).obj",
+            "outputs": [
+                "x64\\Debug\\Day 3(동적 배열 Vector).cpp.obj.dt.module.json",
+                "x64\\Debug\\Day 3(동적 배열 Vector).cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

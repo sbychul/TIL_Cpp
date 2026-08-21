@@ -186,5 +186,8 @@
     <ClCompile Include="Day 56(실습 - 동적 할당 2차원 행렬).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Day 57%28실습 - 다형성 결제 관리자%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

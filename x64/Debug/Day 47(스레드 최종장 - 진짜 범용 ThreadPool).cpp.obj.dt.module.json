@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Day 47(스레드 최종장 - 진짜 범용 ThreadPool).obj",
+            "outputs": [
+                "x64\\Debug\\Day 47(스레드 최종장 - 진짜 범용 ThreadPool).cpp.obj.dt.module.json",
+                "x64\\Debug\\Day 47(스레드 최종장 - 진짜 범용 ThreadPool).cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
