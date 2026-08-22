@@ -189,5 +189,8 @@
     <ClCompile Include="Day 57%28실습 - 다형성 결제 관리자%29.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Day 58(실습 - 제네릭 스마트 캐시).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
