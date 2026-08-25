@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Day 28(파일 입출력 스트림).obj",
+            "outputs": [
+                "x64\\Debug\\Day 28(파일 입출력 스트림).cpp.obj.dt.module.json",
+                "x64\\Debug\\Day 28(파일 입출력 스트림).cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
