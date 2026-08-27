@@ -91,7 +91,7 @@ public:
 
     // 파일에 모든 로그를 저장하는 함수
     void saveToFile(const std::string& filename) const {
-        std::ofstream OutFile(filename);
+        std::ofstream OutFile(filename);  
         // 파일 열기 실패 시 예외를 던짐
         if (!OutFile.is_open()) { throw std::runtime_error("파일 열기 실패"); }
         // logs 순회하며 파일 스트림에 삽입 연산자 오버로딩 활용하여 기록

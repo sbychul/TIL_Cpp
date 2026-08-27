@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Day 60(실습 - 제네릭 스택 기반 후위 표기식 수식 계산기).obj",
+            "outputs": [
+                "x64\\Debug\\Day 60(실습 - 제네릭 스택 기반 후위 표기식 수식 계산기).cpp.obj.dt.module.json",
+                "x64\\Debug\\Day 60(실습 - 제네릭 스택 기반 후위 표기식 수식 계산기).cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

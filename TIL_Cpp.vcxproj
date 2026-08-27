@@ -184,7 +184,9 @@
     <ClCompile Include="Day 58(실습 - 제네릭 스마트 캐시).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="Day 59%28실습 - 다형성 로그 파일 기록 프로그램%29.cpp" />
+    <ClCompile Include="Day 59%28실습 - 다형성 로그 파일 기록 프로그램%29.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="Day 6(구조체와 클래스 기초).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
@@ -197,6 +199,7 @@
     <ClCompile Include="Day 9(동적 할당과 소멸자).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="Day 60%28%29.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
