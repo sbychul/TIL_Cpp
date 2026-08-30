@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Day 62(실습 - 단어 빈도 분석기).obj",
+            "outputs": [
+                "x64\\Debug\\Day 62(실습 - 단어 빈도 분석기).cpp.obj.dt.module.json",
+                "x64\\Debug\\Day 62(실습 - 단어 빈도 분석기).cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

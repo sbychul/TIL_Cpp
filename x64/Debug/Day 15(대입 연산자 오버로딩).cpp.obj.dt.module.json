@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Day 15(대입 연산자 오버로딩).obj",
+            "outputs": [
+                "x64\\Debug\\Day 15(대입 연산자 오버로딩).cpp.obj.dt.module.json",
+                "x64\\Debug\\Day 15(대입 연산자 오버로딩).cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
