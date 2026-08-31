@@ -193,7 +193,10 @@
     <ClCompile Include="Day 61%28실습 - STL 기반 할 일 관리자%29.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="Day 62%28실습 - 단어 빈도 분석기%29.cpp" />
+    <ClCompile Include="Day 62%28실습 - 단어 빈도 분석기%29.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="Day 63().cpp" />
     <ClCompile Include="Day 7(상속).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>

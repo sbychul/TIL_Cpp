@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Day 63(실습 - 다형성 자산 관리 & 파일 영속화).obj",
+            "outputs": [
+                "x64\\Debug\\Day 63(실습 - 다형성 자산 관리 & 파일 영속화).cpp.obj.dt.module.json",
+                "x64\\Debug\\Day 63(실습 - 다형성 자산 관리 & 파일 영속화).cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
