@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Day 64(실습 - 학점 관리 프로그램).obj",
+            "outputs": [
+                "x64\\Debug\\Day 64(실습 - 학점 관리 프로그램).cpp.obj.dt.module.json",
+                "x64\\Debug\\Day 64(실습 - 학점 관리 프로그램).cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

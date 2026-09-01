@@ -196,7 +196,10 @@
     <ClCompile Include="Day 62%28실습 - 단어 빈도 분석기%29.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="Day 63().cpp" />
+    <ClCompile Include="Day 63%28실습 - 다형성 자산 관리 &amp; 파일 영속화%29.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="Day 64%28실습 - 수강신청 학점 관리 프로그램%29.cpp" />
     <ClCompile Include="Day 7(상속).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
