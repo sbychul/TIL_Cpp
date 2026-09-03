@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "TIL_Cpp\\x64\\Debug\\Day 64(실습 - 수강신청 학점 관리 프로그램).obj",
+            "outputs": [
+                "TIL_Cpp\\x64\\Debug\\Day 64(실습 - 수강신청 학점 관리 프로그램).cpp.obj.dt.module.json",
+                "TIL_Cpp\\x64\\Debug\\Day 64(실습 - 수강신청 학점 관리 프로그램).cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

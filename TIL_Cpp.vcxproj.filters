@@ -210,7 +210,7 @@
     <ClCompile Include="Day 64%28실습 - 수강신청 학점 관리 프로그램%29.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Day 65().cpp">
+    <ClCompile Include="Day 65%28실습 - 출석체크 관리자%29.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
