@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Day 17(클래스 템플릿과 범용 컨테이너).obj",
+            "outputs": [
+                "x64\\Debug\\Day 17(클래스 템플릿과 범용 컨테이너).cpp.obj.dt.module.json",
+                "x64\\Debug\\Day 17(클래스 템플릿과 범용 컨테이너).cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

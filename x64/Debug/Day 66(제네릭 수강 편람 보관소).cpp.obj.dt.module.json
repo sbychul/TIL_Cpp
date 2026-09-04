@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Day 66(제네릭 수강 편람 보관소).obj",
+            "outputs": [
+                "x64\\Debug\\Day 66(제네릭 수강 편람 보관소).cpp.obj.dt.module.json",
+                "x64\\Debug\\Day 66(제네릭 수강 편람 보관소).cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

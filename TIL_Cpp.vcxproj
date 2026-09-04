@@ -202,7 +202,10 @@
     <ClCompile Include="Day 64%28실습 - 수강신청 학점 관리 프로그램%29.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="Day 65%28실습 - 출석체크 관리자%29.cpp" />
+    <ClCompile Include="Day 65%28실습 - 출석체크 관리자%29.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="Day 66(제네릭 수강 편람 보관소).cpp" />
     <ClCompile Include="Day 7(상속).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
