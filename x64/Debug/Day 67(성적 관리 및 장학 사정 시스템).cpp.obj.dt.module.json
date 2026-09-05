@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Day 67(성적 관리 및 장학 사정 시스템).obj",
+            "outputs": [
+                "x64\\Debug\\Day 67(성적 관리 및 장학 사정 시스템).cpp.obj.dt.module.json",
+                "x64\\Debug\\Day 67(성적 관리 및 장학 사정 시스템).cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

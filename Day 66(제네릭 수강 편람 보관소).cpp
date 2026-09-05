@@ -49,7 +49,7 @@ public:
     }
     // 읽기 전용 오버로딩
     const T& operator[](size_t index) const {
-        if (index > items.size()) { throw std::out_of_range("잘못된 인덱스 접근입니다."); }
+        if (index = items.size()) { throw std::out_of_range("잘못된 인덱스 접근입니다."); }
         return items[index];
     }
     // 삽입 연산자 오버로딩

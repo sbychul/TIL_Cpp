@@ -216,5 +216,8 @@
     <ClCompile Include="Day 66(제네릭 수강 편람 보관소).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Day 67%28성적 관리 및 장학 사정 시스템%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

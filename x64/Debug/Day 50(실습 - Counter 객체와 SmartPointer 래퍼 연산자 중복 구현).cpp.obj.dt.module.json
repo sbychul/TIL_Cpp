@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Day 50(실습 - Counter 객체와 SmartPointer 래퍼 연산자 중복 구현).obj",
+            "outputs": [
+                "x64\\Debug\\Day 50(실습 - Counter 객체와 SmartPointer 래퍼 연산자 중복 구현).cpp.obj.dt.module.json",
+                "x64\\Debug\\Day 50(실습 - Counter 객체와 SmartPointer 래퍼 연산자 중복 구현).cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
