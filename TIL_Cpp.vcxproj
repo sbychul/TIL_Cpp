@@ -211,7 +211,10 @@
     <ClCompile Include="Day 67%28성적 관리 및 장학 사정 시스템%29.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="Day 68().cpp" />
+    <ClCompile Include="Day 68%28스마트 캐시 및 학사 통계 분석기%29.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="Day 69%28성적 변환 및 장학 펀드 집계기%29.cpp" />
     <ClCompile Include="Day 7(상속).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>

@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Day 69(성적 변환 및 장학 펀드 집계기).obj",
+            "outputs": [
+                "x64\\Debug\\Day 69(성적 변환 및 장학 펀드 집계기).cpp.obj.dt.module.json",
+                "x64\\Debug\\Day 69(성적 변환 및 장학 펀드 집계기).cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
