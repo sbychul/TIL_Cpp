@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="TIL_Cpp.vcxproj" />
+  <Project Path="TIL_Cpp.vcxproj" Id="e28aff67-d563-4150-8daa-d73268026e31" />
 </Solution>
