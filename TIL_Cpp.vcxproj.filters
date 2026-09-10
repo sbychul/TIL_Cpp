@@ -228,7 +228,10 @@
     <ClCompile Include="Day 70(연구 과제 심사 및 예산 관리 시스템).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Day 71().cpp">
+    <ClCompile Include="Day 71%28클라우드 용량 할당 시스템%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Day 72().cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

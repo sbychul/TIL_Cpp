@@ -223,7 +223,10 @@
     <ClCompile Include="Day 70(연구 과제 심사 및 예산 관리 시스템).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="Day 71().cpp" />
+    <ClCompile Include="Day 71%28클라우드 용량 할당 시스템%29.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="Day 72().cpp" />
     <ClCompile Include="Day 8(algorithm 라이브러리).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
